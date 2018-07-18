@@ -1,0 +1,19 @@
+
+Question
+---------
+
+Describe the approach to design a cryptocurrency-based point-of-sale (PoS) system. Consider all edge cases in your design. Note: While answering design pattern questions, it is expected from you to provide the Data Structure that would be best suited, different classes & relationships between them, etc. You need not provide the whole code in your answer (unless explicitly told to do so). Code is an extra plus. (3/3)
+
+
+Frontend
+--------
+1) iOS / Android app, or Web application } Displayed on an iPad.
+
+Backend
+-------
+
+> Ethereum ICO generating tokens.
+
+> Smart Contracts Handling sales
+
+> REST API connecting to Ethereum.
